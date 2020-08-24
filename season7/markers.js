@@ -119,7 +119,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [84, 16, 64], "title" : "The Diamond Store", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [-100, -25, 64], "title" : "Trident Shop", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [49, -28, 64], "title" : "Sky Zone Elytra Shop", "icon" : "ijevin.png", "iconSize" : [24, 24]},
-				{"pos" : [-40, 115, 64], "title" : "General Mob Farm Drop Shop", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				{"pos" : [-40, 115, 64], "title" : "Spongebot Sponge Emporium", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-38, 13, 64], "title" : "TNT shop", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [112, 28, 64], "title" : "Trader Jev's", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [22, -28, 64], "title" : "Em and Em's Emporium", "icon" : "impulse.png", "iconSize" : [24, 24]},
